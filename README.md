@@ -16,3 +16,5 @@
 ###### September - Learn advanced front end coding through a website curriculum, October - Build the website frame and functionality, November - Decorate the website to make it more neat and cool and maybe get started on doing partial back end, December - Finish back-end of the website
 ##### Step 4: Documentation
 ###### I intend to update this document daily by adding commits and mark my progress depending on dates or a range of dates
+## 9/5-9/8: Learning Front end curriculem:
+###### I will find a website with a free and popular curriculem to start learning basic html and then eventually going on to advanced html, basic css, and advanced css and then get started on the first few lessons
