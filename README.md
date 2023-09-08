@@ -18,3 +18,5 @@
 ###### I intend to update this document daily by adding commits and mark my progress depending on dates or a range of dates
 ## 9/5-9/8: Learning Front end curriculem:
 ###### I will find a website with a free and popular curriculem to start learning basic html and then eventually going on to advanced html, basic css, and advanced css and then get started on the first few lessons
+### 9/8 update:
+###### Finish freecodingcamp.org "Learning HTML by Building a Cat Photo App" and "Learn basic CSS by Building a Cafe Menu" by Monday 9/11, I am currently 1/3 of the way
