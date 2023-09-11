@@ -23,4 +23,4 @@
 ###### Finish freecodingcamp.org "Learning HTML by Building a Cat Photo App" and "Learn basic CSS by Building a Cafe Menu" by Monday 9/11, I am currently 1/3 of the way
 ## 9/11-9/15: Front end learning 2
 ### 9/11 update: 
-####### Over the weekend and parts of last week, I completed the goals of finishing the two projects listed above. Because I already completed the front-end curriculem once, I feel that it is only neccessary to do the important projects of it, therefore by Wednesday, my goal is to complete "Learn HTML forms by building a registration form" and "Learn accessability by making a quiz
+###### Over the weekend and parts of last week, I completed the goals of finishing the two projects listed above. Because I already completed the front-end curriculem once, I feel that it is only neccessary to do the important projects of it, therefore by Wednesday, my goal is to complete "Learn HTML forms by building a registration form" and "Learn accessability by making a quiz
