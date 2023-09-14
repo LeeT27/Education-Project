@@ -24,3 +24,6 @@
 ## 9/11-9/15: Front end learning 2
 ### 9/11 update: 
 ###### Over the weekend and parts of last week, I completed the goals of finishing the two projects listed above. Because I already completed the front-end curriculem once, I feel that it is only neccessary to do the important projects of it, therefore by Wednesday, my goal is to complete "Learn HTML forms by building a registration form" and "Learn accessability by making a quiz
+### 9/12 update: Last week error
+###### After being told that proof of completion is required for each week, I found that using my old account for freecodecamp.org is much more challenging to show proof of completion, therefore I made a new account where progress could be tracked daily. This would mean that I would have to redo the first two projects, but already knowing how they work, they should not take too much time. Here is the link for the new profile >>> https://www.freecodecamp.org/fcc136c3255-7610-489a-b5e6-d9bf5256d6b4
+
