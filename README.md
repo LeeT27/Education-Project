@@ -23,7 +23,8 @@
 ###### Finish freecodingcamp.org "Learning HTML by Building a Cat Photo App" and "Learn basic CSS by Building a Cafe Menu" by Monday 9/11, I am currently 1/3 of the way
 ## 9/11-9/15: Front end learning 2
 ### 9/11 update: 
-###### Over the weekend and parts of last week, I completed the goals of finishing the two projects listed above. Because I already completed the front-end curriculem once, I feel that it is only neccessary to do the important projects of it, therefore by Wednesday, my goal is to complete "Learn HTML forms by building a registration form" and "Learn accessability by making a quiz
+###### Over the weekend and parts of last week, I completed the goals of finishing the two projects listed above. Because I already completed the front-end curriculem once, I feel that it is only neccessary to do the important projects of it, therefore by next week, my goal is to complete "Learn HTML forms by building a registration form" and "Learn accessability by making a quiz
 ### 9/12 update: Last week error
 ###### After being told that proof of completion is required for each week, I found that using my old account for freecodecamp.org is much more challenging to show proof of completion, therefore I made a new account where progress could be tracked daily. This would mean that I would have to redo the first two projects, but already knowing how they work, they should not take too much time. Here is the link for the new profile >>> https://www.freecodecamp.org/ethanjlee
-
+## 9/18-9/22: Front end learning 3
+###### I was very sick last Friday and over the weekend, therefore I was pretty pressed for time and couldn't get a Friday update in, but still I ended up finishing the two challenges on freecodecamp.com. This week, I intend to spread out my work more and then finish "Learn the CSS box model by building a rothiko painting" and "Learn CSS flexbox by building a photo gallery".
