@@ -1,4 +1,5 @@
 # Education Project
+# FreeCodeCamp.com Account: https://www.freecodecamp.org/ethanjlee
 
 ## 8/27: Project Brainstorming
 ##### Semester Project: Free Educational Website
