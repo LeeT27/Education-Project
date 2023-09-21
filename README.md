@@ -29,4 +29,4 @@
 ## 9/18-9/22: Front end learning 3
 ###### I was very sick last Friday and over the weekend, therefore I was pretty pressed for time and couldn't get a Friday update in, but still I ended up finishing the two challenges on freecodecamp.com. This week, I intend to spread out my work more and then finish "Learn the CSS box model by building a rothiko painting" and "Learn CSS flexbox by building a photo gallery".
 ### 9/20 update: 
-######Finished "Learn the CSS box model by building a rothiko painting", which taught about how the CSS box model works, which may be useful for my project in terms of formatting elements with correct spacing
+###### Finished "Learn the CSS box model by building a rothiko painting", which taught about how the CSS box model works, which may be useful for my project in terms of formatting elements with correct spacing
