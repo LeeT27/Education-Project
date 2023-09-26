@@ -33,3 +33,5 @@
 ###### Finished "Learn the CSS box model by building a rothiko painting", which taught about how the CSS box model works, which may be useful for my project in terms of formatting elements with correct spacing
 ### 9/25 update: 
 ###### Finished "Learn CSS Flexbox by Building a Photo Gallery"
+## 9/26-9/29: Front end learning final
+###### Goal for this week: Finish two more lessons and then get started with the project next week!
