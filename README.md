@@ -35,3 +35,5 @@
 ###### Finished "Learn CSS Flexbox by Building a Photo Gallery"
 ## 9/26-9/29: Front end learning final
 ###### Goal for this week: Finish two more lessons and then get started with the project next week!
+### 10/1 update: 
+###### Finished "Learn Responsive Design By Building a Piano" and "Learn CSS Animation by Building a Ferris Wheel". I am officially done with the front end learning phase and will begin building the website over the course of next month :)
