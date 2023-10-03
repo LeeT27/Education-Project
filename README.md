@@ -37,3 +37,5 @@
 ###### Goal for this week: Finish two more lessons and then get started with the project next week!
 ### 10/1 update: 
 ###### Finished "Learn Responsive Design By Building a Piano" and "Learn CSS Animation by Building a Ferris Wheel". I am officially done with the front end learning phase and will begin building the website over the course of next month :)
+## 10/2-10/6: Project Base
+###### This week I will begin to make the skeleton for the education website
