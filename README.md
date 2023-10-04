@@ -39,3 +39,5 @@
 ###### Finished "Learn Responsive Design By Building a Piano" and "Learn CSS Animation by Building a Ferris Wheel". I am officially done with the front end learning phase and will begin building the website over the course of next month :)
 ## 10/2-10/6: Project Base
 ###### This week I will begin to make the skeleton for the education website
+### 10/4 update: 
+###### Before actually starting the project building, I've been looking through various templete online, not to copy from, but to gain inspiration from. The link to the website is https://colorlib.com/wp/cat/education/. This would support by design for CSS and knowing efficient ways for the user to interact.
