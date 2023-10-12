@@ -1,5 +1,6 @@
 # Education Project
 # FreeCodeCamp.com Account: https://www.freecodecamp.org/ethanjlee
+# Replit Portfolio: https://juno-lee-portfolio.ethanlee111.repl.co
 
 ## 8/27: Project Brainstorming
 ##### Semester Project: Free Educational Website
