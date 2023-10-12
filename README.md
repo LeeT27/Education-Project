@@ -44,3 +44,6 @@
 ###### Before actually starting the project building, I've been looking through various templete online, not to copy from, but to gain inspiration from. The link to the website is https://colorlib.com/wp/cat/education/. This would support by design for CSS and knowing efficient ways for the user to interact.
 ### 10/10 update: 
 ###### Began making project skeleton and plan to finish so by next week
+## 10/11-10/13: Project Base 2
+### 10/11 update:
+###### Progress done on "about me page"
