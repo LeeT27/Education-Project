@@ -47,3 +47,5 @@
 ## 10/11-10/13: Project Base 2
 ### 10/11 update:
 ###### Progress done on "about me page"
+### 10/15 update:
+###### Finished skeleton for "library" tab, which will contain the learning content for the website
