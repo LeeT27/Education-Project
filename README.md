@@ -49,3 +49,7 @@
 ###### Progress done on "about me page"
 ### 10/15 update:
 ###### Finished skeleton for "library" tab, which will contain the learning content for the website
+## 10/11-10/13: Project Base 3
+### 10/16 update:
+###### Going to start showing updates with pictures and captions. Today, I focused on making the home screen a little more fancy, here is what it looks like.
+![Screenshot 2023-10-16 2 55 32 PM](https://github.com/LeeT27/Education-Project/assets/138246438/87774350-a48b-4fc3-ba8b-f6a37219c2e7)
