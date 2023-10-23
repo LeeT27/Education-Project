@@ -53,3 +53,15 @@
 ### 10/16 update:
 ###### Going to start showing updates with pictures and captions. Today, I focused on making the home screen a little more fancy, here is what it looks like.
 ![Screenshot 2023-10-16 2 55 32 PM](https://github.com/LeeT27/Education-Project/assets/138246438/87774350-a48b-4fc3-ba8b-f6a37219c2e7)
+### 10/22 update:
+###### I forgot to update throughtout the week in which I will do more this week, but I will give a huge rundown of what I have completed in the past week. My goal for the past two weeks was to finish the website skeleton and I completed the task
+![image](https://github.com/LeeT27/Education-Project/assets/138246438/81b40e18-fbd4-42ea-9a9c-d184fca960d3)
+###### First, I made a home page feauturing an animated wallpaper, title styling, and a navbar which contains links and my own logo.
+![image](https://github.com/LeeT27/Education-Project/assets/138246438/9f0729e2-d44f-4dd8-9a35-7db460ab386f)
+###### More features in the front page include an animated slideshow decoration in which I will replace with the videos I create in the future
+![image](https://github.com/LeeT27/Education-Project/assets/138246438/5336162a-167f-4297-9973-36b96242856f)
+###### Next, the learn tab features videos sorted per units and buttons to easily navigate the videos
+###### Currently, the quiz section isn't started yet and I will only work on it after creating the videos
+![image](https://github.com/LeeT27/Education-Project/assets/138246438/f9db7599-099c-40eb-bcef-421967c2d103)
+###### Lastly, the about me page was made and styled but hasn't yet been filled professionally and I intend to do so soon
+
