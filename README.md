@@ -64,4 +64,5 @@
 ###### Currently, the quiz section isn't started yet and I will only work on it after creating the videos
 ![image](https://github.com/LeeT27/Education-Project/assets/138246438/f9db7599-099c-40eb-bcef-421967c2d103)
 ###### Lastly, the about me page was made and styled but hasn't yet been filled professionally and I intend to do so soon
-
+## 10/23-10/27: Video Creation 1
+###### I began to plan out the geometry curriculem by making chapters based on the khan academy curriculem. I created the official youtube channel for the account and plan to start recording videos very soon
