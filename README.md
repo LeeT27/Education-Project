@@ -66,3 +66,5 @@
 ###### Lastly, the about me page was made and styled but hasn't yet been filled professionally and I intend to do so soon
 ## 10/23-10/27: Video Creation 1
 ###### I began to plan out the geometry curriculem by making chapters based on the khan academy curriculem. I created the official youtube channel for the account and plan to start recording videos very soon
+## 10/30-11/3: MVP and video creation
+###### Currently still working and planning the curriculem and video format for the learning section of the website. Here is a document to the Minimal Viable Product: https://docs.google.com/document/d/1i1opyDk2n3kCEueP4NQJc3qiZJ6Bb1WwNvVBes5YPt0/edit?usp=sharing
