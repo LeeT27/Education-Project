@@ -68,3 +68,5 @@
 ###### I began to plan out the geometry curriculem by making chapters based on the khan academy curriculem. I created the official youtube channel for the account and plan to start recording videos very soon
 ## 10/30-11/3: MVP and video creation
 ###### Currently still working and planning the curriculem and video format for the learning section of the website. Here is a document to the Minimal Viable Product: https://docs.google.com/document/d/1i1opyDk2n3kCEueP4NQJc3qiZJ6Bb1WwNvVBes5YPt0/edit?usp=sharing
+## 11/6-11/10: New direction
+###### After talking with Mr. Lueken, I decided to go on a very different approach for this project. Instead of focusing on making videos for the project, I intend to instead not make my own videos but to link kahn academy's videos and have a much bigger focus on the AI aspect of the project. I also intend to spend much more time compared to the past 2 weeks because I am currently a little behind.
