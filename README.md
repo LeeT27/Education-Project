@@ -70,5 +70,8 @@
 ###### Currently still working and planning the curriculem and video format for the learning section of the website. Here is a document to the Minimal Viable Product: https://docs.google.com/document/d/1i1opyDk2n3kCEueP4NQJc3qiZJ6Bb1WwNvVBes5YPt0/edit?usp=sharing
 ## 11/6-11/10: New direction
 ###### After talking with Mr. Lueken, I decided to go on a very different approach for this project. Instead of focusing on making videos for the project, I intend to instead not make my own videos but to link kahn academy's videos and have a much bigger focus on the AI aspect of the project. I also intend to spend much more time compared to the past 2 weeks because I am currently a little behind.
-### 10/12 update:
+### 11/12 update:
 ###### Over the week, I have implemented the use of flexbox in order to embed KahnAcademy's videos effectively. I will be done transfering and embedding all videos by next week so that I can focus on the AI component of this project.
+## 11/13-11/17: Side NavBar
+###### Goal for this week is to implement a side bar for the learn section that can navigate videos by unit and lesson. I am doing this because embedding 50 videos on one page is basically impossible to load 
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodyhouse.co%2Fgem%2Fresponsive-sidebar-navigation&psig=AOvVaw1jjTb2fkV3H11Xzxdmp2oI&ust=1700070513013000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICy8KyGxIIDFQAAAAAdAAAAABAD)
