@@ -75,3 +75,5 @@
 ## 11/13-11/17: Side NavBar
 ###### Goal for this week is to implement a side bar for the learn section that can navigate videos by unit and lesson. I am doing this because embedding 50 videos on one page is basically impossible to load 
 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodyhouse.co%2Fgem%2Fresponsive-sidebar-navigation&psig=AOvVaw1jjTb2fkV3H11Xzxdmp2oI&ust=1700070513013000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICy8KyGxIIDFQAAAAAdAAAAABAD)
+### 11/15 update
+###### Added basic vertical navbar that can store many items and if it overflows, it will add a scroll. ![image](https://github.com/LeeT27/Education-Project/assets/138246438/76c91ee5-16de-4f70-bbb7-e5817bcf8f86)
