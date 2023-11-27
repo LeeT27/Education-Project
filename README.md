@@ -80,3 +80,5 @@
 ### 11/19 update: 
 ###### After hours of work at school and trying to find out how to make a submenu from the side nav bar, I finally did it.
 ![image](https://github.com/LeeT27/Education-Project/assets/138246438/9af997da-f592-4640-8e5e-af2ece0df109)
+### 11/26 update: I DID IT!!!
+###### After multiple hours of attempting to make a working system where the src of the video changes based on the submenu of the html, I finally was able to do it with tons of trial and error.
