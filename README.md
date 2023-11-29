@@ -82,3 +82,7 @@
 ![image](https://github.com/LeeT27/Education-Project/assets/138246438/9af997da-f592-4640-8e5e-af2ece0df109)
 ### 11/26 update: I DID IT!!!
 ###### After multiple hours of attempting to make a working system where the src of the video changes based on the submenu of the html, I finally was able to do it with tons of trial and error.
+## 11/27-12/1: Plans for the Rest of the Semester
+### 11/29 update: Huge progress
+###### I finally pasted all of the links for all of the units into my submenu navbar so that each option changes the innerHTML of the title and src of the video, here is a screenshot: ![Screenshot (1)](https://github.com/LeeT27/Education-Project/assets/138246438/947b9737-555d-47d0-ae0f-eec318ad5c96). Here is a document for my future plans until the end of the semester: https://docs.google.com/document/d/1FXSdkNhEfi8xmUZWV3ISzN9R8UuFq_gbRlrqK0yjcRY/edit?usp=sharing
+
