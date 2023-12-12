@@ -85,4 +85,6 @@
 ## 11/27-12/1: Plans for the Rest of the Semester
 ### 11/29 update: Huge progress
 ###### I finally pasted all of the links for all of the units into my submenu navbar so that each option changes the innerHTML of the title and src of the video, here is a screenshot: ![Screenshot (1)](https://github.com/LeeT27/Education-Project/assets/138246438/947b9737-555d-47d0-ae0f-eec318ad5c96). Here is a document for my future plans until the end of the semester: https://docs.google.com/document/d/1FXSdkNhEfi8xmUZWV3ISzN9R8UuFq_gbRlrqK0yjcRY/edit?usp=sharing
+## 12/12: FINALE:
+###### Final Goal until Monday, finish AI component with quizzes page that looks like this: ![Screenshot 2023-12-12 11 42 01 AM](https://github.com/LeeT27/Education-Project/assets/138246438/036afe4a-9aa3-4748-b35f-e871e33c16dd)
 
